@@ -1,0 +1,5 @@
+{
+  "token": "This is where the bot token would go",
+  "prefix": ".",
+  "report_channel_id": "This is where the report channel ID would go",
+}

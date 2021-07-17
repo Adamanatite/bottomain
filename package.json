@@ -1,0 +1,14 @@
+{
+  "name": "bottomain",
+  "version": "1.0.0",
+  "description": "A bot for DoggoMain discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "adamm",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
